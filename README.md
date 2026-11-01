@@ -1,3 +1,11 @@
+<!-- Stage navigation: the original README below is preserved unchanged. -->
+> **Project stages:** all previous stages are preserved in the [commit history](https://github.com/lyyi211/monte-carlo-rutherford-scattering-simulator/commits/master/).
+>
+> **Extensions:** [Finite nuclear size](FINITE_SIZE.md) | [Nuclear physics, detector, Geant4 and ROOT](NUCLEAR_README.md).
+> The nuclear-extension README contains its physics, results, plots, screenshots, animation, source-code links and physical explanations.
+
+---
+
 # Rutherford differential cross section validation
 
 This stage extends the Monte Carlo simulation from individual scattering-angle validation to a direct numerical reconstruction of the Rutherford differential scattering cross section.

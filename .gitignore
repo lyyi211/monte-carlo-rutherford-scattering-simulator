@@ -13,3 +13,13 @@ __pycache__/
 # Build and backup files
 *.o
 *.zip
+
+# Reproducible CMake build products
+/geant4/build/
+/core
+/core.*
+
+# Raw GUI capture intermediates (reproducible from the viewer)
+/results/screenshots/frames/
+/results/screenshots/*.xwd
+/results/screenshots/capture_complete.txt

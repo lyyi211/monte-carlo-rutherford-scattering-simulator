@@ -1,0 +1,5 @@
+model,generated,valid_trajectory,geometric_hits,survivors_geometric,registered,registration_fraction
+point,15000,15000,1524,1524,1299,0.0866
+uniform_sphere,15000,15000,1635,1635,1394,0.0929333
+fermi_coulomb,15000,15000,1556,1556,1349,0.0899333
+fermi_nuclear,15000,15000,1391,854,707,0.0471333
